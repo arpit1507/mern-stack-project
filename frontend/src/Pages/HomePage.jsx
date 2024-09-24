@@ -1,5 +1,5 @@
 import { useProductStore } from "../store/product";
-import ProductCard from "../Components/ProductCard";
+import ProductCard from "../Components/ProductCard.jsx";
 import { useEffect } from "react";
 import { Image, Text } from "@chakra-ui/react";
 
